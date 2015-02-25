@@ -1,0 +1,8 @@
+*.suo
+*.user
+lib/
+src/GiocoDellOca.Test/bin/
+src/GiocoDellOca.Test/obj
+src/GiocoDellOca/bin/
+src/GiocoDellOca/obj/
+src/TestResults
